@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jake!
 
-Software developer with experience in using development tools such as Git for version control and Google Cloud and DigitalOcean for hosting. Familiar with HTML, CSS, MySQL/PostgreSQL, Javascript/Node, Python, Go, and Java. Researching artificial intelligence, hosting guest speakers as the president/founder of my school's AI and Deep Learning Club, and teaching lower schoolers about artificial intelligence.
+Software developer with experience in using development tools such as Git for version control and Google Cloud and DigitalOcean for hosting. Familiar with HTML, CSS, MySQL/PostgreSQL, Javascript/Node, Python, Swift, Go, and Java. Researching artificial intelligence, hosting guest speakers as the president/founder of my school's AI and Deep Learning Club, and teaching lower schoolers about artificial intelligence.
 
 <hr/>
 
