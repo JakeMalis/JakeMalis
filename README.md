@@ -50,6 +50,11 @@ model.compile(optimizer='adam',
 model.fit(X, y, validation_split=0.3)
 ```
 
+### ✍️ When I was 14 I wrote an article explaining the basics of deep learning [Intro To Deep Learning: Taught by a 14-Year Old](https://medium.com/towards-data-science/intro-to-deep-learning-taught-by-a-14-year-old-6c49fc94d66)
+
+![1*FVYJ7zvP3KmnIq08tvFXQQ](https://user-images.githubusercontent.com/18268912/157100572-6b17a3c6-d86d-4e47-a418-8a3f8c57a500.png)
+
+
 <!--
 ### 🌱 I’m currently learning
 - Jax
