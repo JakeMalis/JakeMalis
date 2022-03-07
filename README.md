@@ -12,20 +12,6 @@ Researching artificial intelligence for classification, quantification, and loca
 ### 🧠 I'm also working on brainstorming ⚡️ an idea for a scheduling app for students
 The issue with existing scheduling apps like Apple Calendar and Apple Reminders is that it doesn't link the two to form a schedule. It's better to integrate with Apple calendars & reminders, rather than competing with them. Everything added in app should also be reflected in Apple ecosystem products.
 
-- Long lists are daunting, hide reminders/events that are too far in the future to worry about. Add a start date for when something needs to be taken off the back burner
-- For a class like math where homework may be a list of textbook questions, allow users to split up an assignment into sections so that the student completes each homework section per night
-- Allow users to jot down homework and make details be finished later
-    - Show these to-be detailed assignments at the top of the list so that when the user has time they can break it apart + add due dates
-- Share assignments with classmates
-    - Good for group projects
-    - Shared file drive
-- After deleting a reminder (not marking as completed), show a countdown type thing before it’s gone for good or restore
-- Personal deadline versus definite deadline
-    - You can say you want something done by a certain day even if the actual deadline is later to give you wiggle room.
-- “Linda, push back all my meetings”
-    - Similar to how people with assistants in movies can ask their assistants to move everything on their schedule back, students sometimes may have something come up or just simply aren’t feeling productive at the moment.
-    - By adding a feature that lets you push back all your non-essential to-dos to a later time that day or the next day if you only have 1 set block of study/work time.
-
 ### 📚 I'm getting a certificate from DataCamp for [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/introduction-to-deep-learning-in-python)
 ```
 #Building your own digit recognition model
