@@ -55,7 +55,7 @@ exports.compressProfilePicture = functions.region('us-east1').storage.object().o
 ### 🧠 I'm also working on brainstorming ⚡️ an idea for a scheduling app for students
 The issue with existing scheduling apps like Apple Calendar and Apple Reminders is that it doesn't link the two to form a schedule. It's better to integrate with Apple calendars & reminders, rather than competing with them. Everything added in app should also be reflected in Apple ecosystem products.
 
-### 📚 I'm got a certificate from DataCamp for [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/introduction-to-deep-learning-in-python) and am persuing another certificate from DataCamp for [Advanced Deep Learning with Keras Course](https://www.datacamp.com/courses/advanced-deep-learning-with-keras)
+### 📚 I'm got a certificates from DataCamp for [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/introduction-to-deep-learning-in-python) and [Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras)
 ```
 #Building your own digit recognition model
 # Create the model: model
