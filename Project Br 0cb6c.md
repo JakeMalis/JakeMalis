@@ -1,4 +1,4 @@
-# Project Brainstorm for UNTITLED APP, a modern scheduling app for students…
+# 🧠 Project Brainstorm for UNTITLED APP, a modern scheduling app for students…
 
 The issue with existing scheduling apps like Apple Calendar and Apple Reminders is that it doesn't link the two to form a schedule.
 
@@ -24,15 +24,12 @@ It's better to integrate with Apple calendars & reminders, rather than competing
 
 # Connections
 
----
 
 - Linking with Canvas?
     - Canvas API takes info on classes and provides students with a link to submit assignments
 - Link reminders to emails and text messages for referencing tasks
 
 # Design References
-
----
 
 <img width="708" alt="Untitled" src="https://user-images.githubusercontent.com/18268912/159520760-0b03d1b8-6a5e-4820-9d2c-ca2293aeccde.png">
 
@@ -44,7 +41,5 @@ It's better to integrate with Apple calendars & reminders, rather than competing
 [The all-new Things](https://culturedcode.com/things/)
 
 [‎TickTick:To-Do List & Calendar](https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601)
-
----
 
 [To do list app with Calendar, Planner & Reminders | Any.do](https://www.any.do/)
