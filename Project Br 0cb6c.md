@@ -1,8 +1,4 @@
-# Project Brainstorm for UNTITLED APP
-
-# A modern scheduling app for students…
-
----
+# Project Brainstorm for UNTITLED APP, a modern scheduling app for students…
 
 The issue with existing scheduling apps like Apple Calendar and Apple Reminders is that it doesn't link the two to form a schedule.
 
@@ -11,8 +7,6 @@ This app integrates your class schedules, homework due, study times, and ...
 It's better to integrate with Apple calendars & reminders, rather than competing with them. Everything added in app should also be reflected in Apple ecosystem products.
 
 # Features List
-
----
 
 - Long lists are daunting, hide reminders/events that are too far in the future to worry about. Add a start date for when something needs to be taken off the back burner
 - For a class like math where homework may be a list of textbook questions, allow users to split up an assignment into sections so that the student completes each homework section per night
@@ -40,7 +34,8 @@ It's better to integrate with Apple calendars & reminders, rather than competing
 
 ---
 
-![Untitled](Project%20Br%200cb6c/Untitled.png)
+<img width="708" alt="Untitled" src="https://user-images.githubusercontent.com/18268912/159520760-0b03d1b8-6a5e-4820-9d2c-ca2293aeccde.png">
+
 
 [Buttons - Sign in with Apple - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/buttons/)
 
