@@ -4,6 +4,10 @@ Software developer with experience in using development tools such as Git for ve
 
 <hr/>
 
+### 🤖 An article that I wrote titled "[Detecting Lucky Charm Marshmallows Using Computer Vision - They're Mathematically Delicious](https://blog.roboflow.com/object-detection-food-manufacturing/)" was just posted to RoboFlow's Blog.
+
+![roboflow_testing_annotation](https://user-images.githubusercontent.com/18268912/172263869-8583168a-8fd3-49df-b9cb-a8271d14c88f.jpg)
+
 ### 🔭 I’m currently working on [Cloud Chamber Research](https://github.com/JakeMalis/Cloud-Chamber)
 Researching artificial intelligence for classification, quantification, and localization of tracks caused by ionizing radiation seen within a supersaturated environment.
 
@@ -52,9 +56,6 @@ exports.compressProfilePicture = functions.region('us-east1').storage.object().o
 });
 ```
 
-### 🧠 I'm also working on brainstorming ⚡️ an idea for a scheduling app for students
-The issue with existing scheduling apps like Apple Calendar and Apple Reminders is that it doesn't link the two to form a schedule. It's better to integrate with Apple calendars & reminders, rather than competing with them. Everything added in app should also be reflected in Apple ecosystem products.
-
 ### 📚 I'm got a certificates from DataCamp for [Introduction to Deep Learning in Python](https://www.datacamp.com/courses/introduction-to-deep-learning-in-python) and [Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras)
 ```
 #Building your own digit recognition model
@@ -82,12 +83,3 @@ model.fit(X, y, validation_split=0.3)
 ### ✍️ When I was 14 I wrote an article explaining the basics of deep learning [Intro To Deep Learning: Taught by a 14-Year Old](https://medium.com/towards-data-science/intro-to-deep-learning-taught-by-a-14-year-old-6c49fc94d66)
 
 ![1*FVYJ7zvP3KmnIq08tvFXQQ](https://user-images.githubusercontent.com/18268912/157100572-6b17a3c6-d86d-4e47-a418-8a3f8c57a500.png)
-
-
-<!--
-### 🌱 I’m currently learning
-- Jax
-### 💬 Ask me about ...
-### 📫 How to reach me: ...
-### 😄 Pronouns: he/him
-### ⚡ Fun fact: ...
