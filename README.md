@@ -27,7 +27,7 @@ Researched artificial intelligence for classification, quantification, and local
 
 ### 🧑‍💻 I coded the first generation backend for a tournament bracketing company, [Brackot](https://www.brackot.com)
 
-The backend consisted of 2 parts: a serverless cloud backend that managed database transactions, automated sign-up/confirmation emails, file compression for profile pictures (*shown below*), and database clean-up functionality for big database format changes; and a client-side backend that handled authentication, bracket generation and formatting, and filtering for tournaments.
+Designed and wrote the code for the V1 backend. The backend consisted of 2 parts: serverless backend and client-side backend. Designed serverless backend for managing database transactions, sending sign-up/confirmation emails, file compression (_shown below_), and database migrations while preventing cold starts resulting in 400ms average function run time. Deployed client-side backend to handle authentication, bracket generation and formatting, and filtering for tournaments serving more than 2,000 concurrent users.
 
 ```
 exports.compressProfilePicture = functions.region('us-east1').storage.object().onFinalize(async (object) => {
