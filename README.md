@@ -25,7 +25,7 @@ Researched artificial intelligence for classification, quantification, and local
 
 [Read Full Paper](https://github.com/JakeMalis/CloudChamber/blob/main/cosmic%20rays%2C%20cnns%2C%20cloud%20chamber.pdf)
 
-### 🧑‍💻 I coded the first generation backend for a tournament bracketing company, [Brackot](https://www.brackot.com)
+### 🧑‍💻 I coded the first generation backend for a tournament bracketing company, [Brackot](https://github.com/JakeMalis/brackot)
 
 Designed and wrote the code for the V1 backend. The backend consisted of 2 parts: serverless backend and client-side backend. Designed serverless backend for managing database transactions, sending sign-up/confirmation emails, file compression (_shown below_), and database migrations while preventing cold starts resulting in 400ms average function run time. Deployed client-side backend to handle authentication, bracket generation and formatting, and filtering for tournaments serving more than 2,000 concurrent users.
 
