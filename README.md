@@ -4,18 +4,6 @@ I'm a full-stack developer who's passionate about software development, artifici
 
 <hr/>
 
-### 🤖 An article that I wrote titled "[Detecting Lucky Charm Marshmallows Using Computer Vision - They're Mathematically Delicious](https://blog.roboflow.com/object-detection-food-manufacturing/)" was just posted to RoboFlow's Blog.
-
-```
-!python /content/models/research/object_detection/model_main_tf2.py \
-    --pipeline_config_path={pipeline_config_path} \
-    --model_dir={model_dir} \
-    --use_tpu=True \
-    --alsologtostderr
-```
-
-![roboflow_testing_annotation](https://user-images.githubusercontent.com/18268912/172263869-8583168a-8fd3-49df-b9cb-a8271d14c88f.jpg)
-
 ### 🔭 Conducted research on [Cloud Chambers and Artificial Intelligence](https://github.com/JakeMalis/Cloud-Chamber)
 Researched artificial intelligence for classification, quantification, and localization of tracks caused by ionizing radiation seen within a supersaturated environment.
 
