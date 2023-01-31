@@ -4,6 +4,26 @@ I'm a full-stack developer who's passionate about software development, artifici
 
 <hr/>
 
+### 🧮 Competeted in MIT's iQuHACK 2023 Hackathon working on [Quantinuum's Quantum Approximate Optimisation Algorithm Challenge](https://github.com/JakeMalis/2023_Quantinuum/blob/InsertTeamName/team_solutions/InsertTeamName/InsertTeamCode.ipynb)
+
+The challenge was to improve the existing Max-Cut Cost function by, which my team accomplished by creating a more efficient SPSA algorithm and using gradient descent to estimate the gradient of the objective function by partial derivative in each variable. Below is a proof-of-concept for this using Google's Cirq Quantum SDK.
+
+```
+def qaoa_cost(params):
+    qc = cirq.Circuit()
+    for i in range(num_layers):
+        qc.append(cirq.rx(params[2*i]).on(cirq.LineQubit(0)))
+        qc.append(cirq.rx(params[2*i]).on(cirq.LineQubit(1)))
+        qc.append(cirq.rz(params[2*i + 1]).on(cirq.LineQubit(0)))
+        qc.append(cirq.rz(params[2*i + 1]).on(cirq.LineQubit(1)))
+        qc.append(cirq.CNOT(cirq.LineQubit(0), cirq.LineQubit(1)))
+    simulator = cirq.Simulator()
+    result = simulator.simulate(qc)
+    final_state = result.final_state_vector
+    cost = np.abs((final_state.conj().T @ H_d.matrix() @ final_state).real)
+    return cost
+```
+
 ### 🔭 Conducted research on [Cloud Chambers and Artificial Intelligence](https://github.com/JakeMalis/Cloud-Chamber)
 Researched artificial intelligence for classification, quantification, and localization of tracks caused by ionizing radiation seen within a supersaturated environment.
 
