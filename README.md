@@ -4,7 +4,7 @@ I'm a full-stack developer who's passionate about software development, artifici
 
 <hr/>
 
-### 🧮 Competeted in MIT's iQuHACK 2023 Hackathon working on [Quantinuum's Quantum Approximate Optimisation Algorithm Challenge](https://github.com/JakeMalis/2023_Quantinuum/blob/InsertTeamName/team_solutions/InsertTeamName/InsertTeamCode.ipynb)
+### 🧮 Competed in MIT's iQuHACK 2023 Hackathon working on [Quantinuum's Quantum Approximate Optimisation Algorithm Challenge](https://github.com/JakeMalis/2023_Quantinuum/blob/InsertTeamName/team_solutions/InsertTeamName/InsertTeamCode.ipynb)
 
 The challenge was to improve the existing Max-Cut Cost function by, which my team accomplished by creating a more efficient SPSA algorithm and using gradient descent to estimate the gradient of the objective function by partial derivative in each variable. Below is a proof-of-concept for this using Google's Cirq Quantum SDK.
 
