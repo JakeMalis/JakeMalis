@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\id student\desktop\jake m\numberguessing\numberguessing\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGuessing.vcxproj -> C:\Users\iD Student\Desktop\Jake M\NumberGuessing\Debug\NumberGuessing.exe
+  NumberGuessing.vcxproj -> C:\Users\iD Student\Desktop\Jake M\NumberGuessing\Debug\NumberGuessing.pdb (Full PDB)

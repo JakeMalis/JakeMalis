@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\id student\desktop\jake m\magic8ball\magic8ball\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Magic8Ball.vcxproj -> C:\Users\iD Student\Desktop\Jake M\Magic8Ball\Debug\Magic8Ball.exe
+  Magic8Ball.vcxproj -> C:\Users\iD Student\Desktop\Jake M\Magic8Ball\Debug\Magic8Ball.pdb (Full PDB)
